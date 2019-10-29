@@ -13,8 +13,10 @@ public class Task5 {
         //first test of github
         System.out.println("Github testing\n\n\n\n");
         //rest of fady's code
-        Wolfe w=new Wolfe("fady",10,65,"black");
-        System.out.println("animal color:"+w.color+""+"\nanimal name:"+w.name+""+"\nanimal id:"+w.getId()+""+"\nanimal age:"+w.getAge());
+      //  Wolfe w=new Wolfe("fady",10,65,"black");
+        
+//System.out.println("animal color:"+w.color+""+"\nanimal name:"+w.name+""+"\nanimal id:"+w.getId()+""+"\nanimal age:"+w.getAge());
+System.out.println("hello ahmed");
     }
     
 }
